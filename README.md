@@ -1,2 +1,2 @@
-# ucb-intro-data-science
-notes for intro to data science mastery course from UCB "San Pablo"
+# Intro to Data Science
+Notes taken during Master's degree from UCB "San Pablo".
