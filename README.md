@@ -1,2 +1,2 @@
 # Intro to Data Science
-Notes taken during Master's degree from UCB "San Pablo".
+Notes taken during the Master's degree at UCB "San Pablo".
